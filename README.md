@@ -13,3 +13,7 @@ a.       E.g., missing data, normalization, discretization, etc.
 6. Provide a high-level description of Machine Learning models – Logistic regression and Decision tree, ANN to predict.
 7. Compare the performance of the two classifiers – Logistic regression and Decision tree to predict. 
 
+
+Inferences : KNN algorithms best suited for this problem statement
+
+For reference : https://towardsdatascience.com/predicting-presence-of-heart-diseases-using-machine-learning-36f00f3edb2c
