@@ -1,4 +1,4 @@
-# Predicting Heart Disease
+# Predicting Heart Disease Problem
 
 ## Problem Statement
 Analyze the data set and identify most relevant heart disease related risk factors as well as predict the overall risk.
